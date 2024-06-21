@@ -1,2 +1,0 @@
-# figd_iXLhdf3eVa0Y0e9T7gJTdIDigQbCK2auJe2pRGJv
-npx figma connect publish --token <figd_iXLhdf3eVa0Y0e9T7gJTdIDigQbCK2auJe2pRGJv>
